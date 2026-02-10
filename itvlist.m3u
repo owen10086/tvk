@@ -1,4 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="2026-02-08更新"
+#EXTINF:-1 group-title="其他频道",河北少儿科教
+http://101.18.26.104:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="2026-02-10更新"
