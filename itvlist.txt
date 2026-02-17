@@ -3,5 +3,4 @@
 卫视频道,#genre#
 
 其他频道,#genre#
-河北农民,http://121.19.134.204:808/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-2026-02-16更新,#genre#
+2026-02-17更新,#genre#
