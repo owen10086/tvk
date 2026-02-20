@@ -1,3 +1,10 @@
 其他频道,#genre#
-邯郸综合,http://101.23.150.109:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-2026-02-19更新,#genre#
+梨园,http://101.23.150.109:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+河北少儿科教,http://121.19.134.204:808/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+河北经济,http://121.19.134.202:808/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+河源公共,http://49.234.31.101:7011/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
+足球,http://49.234.31.101:7011/tsfile/live/1109_1.m3u8?key=txiptv&playlive=1&authid=0
+邯郸公共,http://101.23.150.109:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰纪实,http://49.234.31.101:7011/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
+靓彩河北,http://121.19.134.202:808/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-02-20更新,#genre#
