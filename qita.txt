@@ -1,2 +1,4 @@
 其他频道,#genre#
-2026-02-22更新,#genre#
+河北农民,http://121.19.134.204:808/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+邯郸科技,http://101.23.150.109:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-02-23更新,#genre#

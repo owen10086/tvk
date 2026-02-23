@@ -1,6 +1,13 @@
 央视频道,#genre#
 
 卫视频道,#genre#
+深圳卫视,http://101.23.150.109:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://121.19.134.202:808/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://121.19.134.202:808/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://121.19.134.204:808/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://101.23.150.109:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 
 其他频道,#genre#
-2026-02-22更新,#genre#
+河北农民,http://121.19.134.204:808/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+邯郸科技,http://101.23.150.109:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-02-23更新,#genre#
